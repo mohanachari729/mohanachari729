@@ -30,3 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanachari729&" alt="mohanachari729" /></p>
 
+![snake gif](https://github.com/mohanachari729/mohanachari729/blob/output/github-snake-dark.svg)
+
+
