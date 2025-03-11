@@ -1,7 +1,7 @@
 ## Hi there 👋 I'M MOHANACHARI
 [![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 <h1 align="center">Hi 👋, I'm MOHANACHARI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanachari729&label=Profile%20views&color=0e75b6&style=flat" alt="mohanachari729" /> </p>
 
