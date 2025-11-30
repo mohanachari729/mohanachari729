@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 <p align="left">
-  <img align="right" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Coding GIF" width="400"/>
+  <img align="right" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Coding GIF" width="350"/>
 
   🌟 **Welcome to my GitHub profile!** 🌟<br><br>
   I'm **Mohanachari**, a passionate **Fullstack Developer** from India.<br><br>
