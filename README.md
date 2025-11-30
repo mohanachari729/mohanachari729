@@ -1,6 +1,8 @@
+<!-- Profile Banner GIF -->
 <p align="center">
-  <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" width="100%">
+  <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" width="100%" alt="Profile Banner GIF">
 </p>
+
 <!-- Animated Name Banner with Emojis -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=800&lines=👋+Hi+there!;I'm+Mohanachari;💻+Fullstack+Developer;🎨+UI/UX+Enthusiast;⚡+Tech+Explorer" alt="Typing SVG" />
@@ -10,9 +12,7 @@
 
 ### 👨‍💻 About Me
 <p align="left">
-<img align="right" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Coding GIF" width="400"/>
-
-
+  <img align="right" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Coding GIF" width="400"/>
 
   🌟 **Welcome to my GitHub profile!** 🌟<br><br>
   I'm **Mohanachari**, a passionate **Fullstack Developer** from India.<br><br>
@@ -77,4 +77,16 @@
 </p>
 
 ---
-✨ *Thanks for visiting! Feel free to connect and explore my repositories!* ✨  
+
+### 🐍 GitHub Snake Game
+<p align="center">
+  <img src="https://github.com/mohanachari729/mohanachari729/blob/output/github-snake-dark.svg" alt="GitHub Snake Game" width="600"/>
+</p>
+
+---
+<!-- Animated Conclusion with Emojis -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=700&lines=✨+Thanks+for+visiting!;🎉+Feel+free+to+connect+and+explore+my+repositories!;💻+Happy+Coding+%F0%9F%92%BB" 
+       alt="Animated Conclusion with Emojis" />
+</p>
+
