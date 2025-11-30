@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" width="100%">
+</p>
 <!-- Animated Name Banner with Emojis -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=800&lines=👋+Hi+there!;I'm+Mohanachari;💻+Fullstack+Developer;🎨+UI/UX+Enthusiast;⚡+Tech+Explorer" alt="Typing SVG" />
@@ -7,7 +10,9 @@
 
 ### 👨‍💻 About Me
 <p align="left">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9df46f0cc0a5.gif" alt="Coding GIF" width="400"/>
+<img align="right" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="Coding GIF" width="400"/>
+
+
 
   🌟 **Welcome to my GitHub profile!** 🌟<br><br>
   I'm **Mohanachari**, a passionate **Fullstack Developer** from India.<br><br>
